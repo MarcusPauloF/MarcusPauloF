@@ -16,7 +16,6 @@
 •  Conhecimento em Clean Code.<br>
 •  Experiência em consumo de APIs.<br>
 •  Conhecimento de boas práticas em programação;<br>
-•  Conhecimento em MVC.<br>
 •  Experiência em Rest API.<br>
 •  Conhecimento em ASP.NET Core 6<br>
 •  Conhecimento em Orientação a Objetos.<br>
