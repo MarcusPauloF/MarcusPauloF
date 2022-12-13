@@ -20,6 +20,9 @@
 •  Conhecimento em ASP.NET Core 6<br>
 •  Conhecimento em Orientação a Objetos.<br>
 •  Conhecimento sobre design patterns MVC.<br>
+• HTML.<br>
+• CSS.<br>
+• JavaScript.<br>
 <br>
 
 🤌 Competencias em Geral:<br>
@@ -28,6 +31,7 @@
 • JSON <br>
 • Bancos de dados SQL<br>
 • Azure.<br>
+• Scrum.<br>
   
 <br>
 
