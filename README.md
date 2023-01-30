@@ -6,11 +6,11 @@
 <a href="mailto:marcus.custodiofernandes@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width='135'></a>
  
 
-<p class="has-line-data" data-line-start="6" data-line-end="7">Olá sou o Marcus atualmente sou programador back-end C#, já venho estudando nessa área de desenvolvimento a mais de 1 ano. Hoje me dia estou estudando C# mais a fundo e estudando HTML, CSS e JavaScript , nos quais me dedico totalmente em desenvolver ainda mais as minha habilidades nessa linguagem e framework.</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7">Olá sou o Marcus atualmente sou programador flutter(Dart) e C#, já venho estudando nessa área de desenvolvimento a mais de 1 ano e 6 meses. Hoje me dia estou estudando Flutter (Dart) mais a fundo e estudando HTML, CSS e JavaScript , nos quais me dedico totalmente em desenvolver ainda mais as minha habilidades nessa linguagem e framework.</p>
 
 
 
-<p class="has-line-data" data-line-start="8" data-line-end="18">👌 Minhas Competencias em C#:
+<p class="has-line-data" data-line-start="8" data-line-end="18">👌 Minhas Competencias:
 
 <br>
 •  Conhecimento em Clean Code.<br>
