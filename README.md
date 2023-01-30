@@ -23,6 +23,7 @@
 • HTML.<br>
 • CSS.<br>
 • JavaScript.<br>
+• Flutter.<br>
 <br>
 
 🤌 Competencias em Geral:<br>
