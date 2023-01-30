@@ -6,7 +6,7 @@
 <a href="mailto:marcus.custodiofernandes@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" width='135'></a>
  
 
-<p class="has-line-data" data-line-start="6" data-line-end="7">Olá sou o Marcus atualmente sou programador flutter(Dart) e C#, já venho estudando nessa área de desenvolvimento a mais de 1 ano e 6 meses. Hoje me dia estou estudando Flutter (Dart) mais a fundo e estudando HTML, CSS e JavaScript , nos quais me dedico totalmente em desenvolver ainda mais as minha habilidades nessa linguagem e framework.</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7">Olá sou o Marcus atualmente sou programador flutter(Dart), já venho estudando nessa área de desenvolvimento a mais de 1 ano e 6 meses. Hoje me dia estou estudando Flutter (Dart) masi a fundo , nos quais me dedico totalmente em desenvolver ainda mais as minhas habilidades nessa linguagem e framework.</p>
 
 
 
@@ -20,6 +20,7 @@
 •  Conhecimento em ASP.NET Core 6<br>
 •  Conhecimento em Orientação a Objetos.<br>
 •  Conhecimento sobre design patterns MVC.<br>
+•  C#.<br>
 • HTML.<br>
 • CSS.<br>
 • JavaScript.<br>
